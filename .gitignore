@@ -1,0 +1,7 @@
+build/
+*.keychain
+.DS_Store
+*.log
+tools/validate_result.txt
+tools/gh_check.txt
+tools/git_setup.log
