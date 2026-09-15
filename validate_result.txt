@@ -1,0 +1,7 @@
+OK   Info.plist
+OK   Entitlements.plist
+OK   LaunchScreen.storyboard
+OK   Assets Contents.json
+OK   AppIcon Contents.json
+PNG OK size=1024x1024 bytes=9079
+OK   build-ipa.yml YAML
